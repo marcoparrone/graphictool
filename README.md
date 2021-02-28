@@ -1,8 +1,8 @@
 # graphictool
 
-A very useful graphic tool, packaged in a docker container. See https://imagemagick.org for more informations about the tool.
+A very useful graphic tool, packaged in a docker container.
 
-This is a convenient way of using the tool without installing it and all of its dependencies.
+See https://imagemagick.org for more information about the tool.
 
 ## Prerequisites
 
