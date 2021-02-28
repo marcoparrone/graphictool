@@ -30,7 +30,7 @@ for command in animate compare composite conjure convert display identify import
 done
 ```
 
-then, after reloading the file, run the gm command, for example:
+then, after reloading the file, run the appropriate command, for example:
 
 ```sh
 convert reminder.png -bordercolor white -border 0 \( -clone 0 -resize 16x16 \) \( -clone 0 -resize 32x32 \) \( -clone 0 -resize 48x48 \) \( -clone 0 -resize 64x64 \) -delete 0 -alpha off -colors 256 favicon.ico
